@@ -71,7 +71,7 @@ async def start(client, message):
                 )
             ],[
                 InlineKeyboardButton(
-                    "‼️How To Join Updates Channel?", url='https://urlsopen.net/5z29'
+                    "‼️How To Join Updates Channel?", url='https://t.me/file_forward_4u/1846'
                 )
               ]
         ]
