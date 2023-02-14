@@ -67,9 +67,13 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=invite_link.invite_link
+                    "🤖 Join Updates Channel", url='https://urlsopen.net/5z29'
                 )
-            ]
+            ],[
+                InlineKeyboardButton(
+                    "‼️How To Join Updates Channel?", url='https://urlsopen.net/5z29'
+                )
+              ]
         ]
 
         if message.command[1] != "subscribe":
